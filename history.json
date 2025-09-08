@@ -1,0 +1,130 @@
+[
+  {
+    "message": "Phát hiện lửa",
+    "time": "01:37:37 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 80,
+      "gas": 105,
+      "flame": "Phát hiện",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "time": "01:30:45 01/08/2025"
+    }
+  },
+  {
+    "message": "Trạng thái mái che: Đang mở",
+    "time": "01:38:00 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 80,
+      "gas": 104,
+      "flame": "Không",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang mở",
+      "time": "01:31:08 01/08/2025"
+    }
+  },
+  {
+    "message": "Trạng thái mái che: Đang đóng",
+    "time": "01:38:13 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 80,
+      "gas": 104,
+      "flame": "Không",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "time": "01:31:21 01/08/2025"
+    }
+  },
+  {
+    "message": "Phát hiện rò rỉ gas",
+    "time": "01:38:23 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 80,
+      "gas": 493,
+      "flame": "Không",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "time": "01:31:31 01/08/2025"
+    }
+  },
+  {
+    "message": "Trạng thái mái che: Đang mở",
+    "time": "01:51:29 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 80,
+      "gas": 100,
+      "flame": "Không",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang mở",
+      "time": "01:44:37 01/08/2025"
+    }
+  },
+  {
+    "message": "Trạng thái mái che: Đang đóng",
+    "time": "01:51:39 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 79,
+      "gas": 100,
+      "flame": "Không",
+      "rain": "Không",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "time": "01:44:48 01/08/2025"
+    }
+  },
+  {
+    "message": "Thực hiện: Mở cửa",
+    "time": "01:51:47 1/8/2025",
+    "data": {
+      "raw": "Chưa có dữ liệu",
+      "door": "Đang mở",
+      "canopy": "Đang đóng",
+      "temp": 32,
+      "hum": 80,
+      "gas": 102,
+      "flame": "Không",
+      "rain": "Không",
+      "time": "01:44:55 01/08/2025"
+    }
+  },
+  {
+    "message": "Thực hiện: Đóng cửa",
+    "time": "01:51:49 1/8/2025",
+    "data": {
+      "raw": "Chưa có dữ liệu",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "temp": 32,
+      "hum": 80,
+      "gas": 97,
+      "flame": "Không",
+      "rain": "Không",
+      "time": "01:44:57 01/08/2025"
+    }
+  },
+  {
+    "message": "Phát hiện mưa",
+    "time": "01:51:58 1/8/2025",
+    "data": {
+      "temp": 32,
+      "hum": 79,
+      "gas": 95,
+      "flame": "Không",
+      "rain": "Có",
+      "door": "Đang đóng",
+      "canopy": "Đang đóng",
+      "time": "01:45:07 01/08/2025"
+    }
+  }
+]
